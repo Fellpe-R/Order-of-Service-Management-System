@@ -1,0 +1,5 @@
+com\infox\main\Main.class
+com\infox\views\LoginView.class
+com\infox\main\Main$1.class
+com\infox\views\LoginView$1.class
+com\infox\dal\ModuloConexao.class
